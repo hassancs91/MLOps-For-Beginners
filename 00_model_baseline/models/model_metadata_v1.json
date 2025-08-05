@@ -1,0 +1,8 @@
+{
+  "model_version": "v1",
+  "accuracy": 0.8977912516240797,
+  "features": 5000,
+  "training_samples": 9232,
+  "model_type": "LogisticRegression",
+  "vectorizer_type": "TfidfVectorizer"
+}
